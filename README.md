@@ -1,7 +1,7 @@
 # basketball_pipeline
 
 # methodology
-**tools**
+__tools__
 pandas used for data cleaning
 postgreSQL used for data storage
 

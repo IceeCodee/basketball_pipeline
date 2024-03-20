@@ -8,7 +8,7 @@ The purpose of this repository is to use the json files provided and load the da
 
 # Methodology
 ## Tools
-pandas used for data cleaning  postgreSQL used for data storage
+pandas used for data cleaning <br>  postgreSQL used for data storage
 ## Data Cleaning
 .....coming soon........
 # Queries

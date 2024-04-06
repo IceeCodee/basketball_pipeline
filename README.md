@@ -2,9 +2,9 @@
 The purpose of this repository is to use the json files provided and load the data into clean, well-organized tables in a postgre database.
 
 # Data Sources
-international_box_player_season.json -> json file with mock data of player stats from one of the four internatinal leagues (EuroLeague, EuroCup, Spain-ACB and Italy-Liga A) <br>
-nba_box_player_season.json -> json file with mock data of player stats from NBA seasons 2010 - 2021 <br>
-player.json -> json file with mock data of basic player info (name, date of birth) <br>
+* international_box_player_season.json -> json file with mock data of player stats from one of the four internatinal leagues (EuroLeague, EuroCup, Spain-ACB and Italy-Liga A) <br>
+* nba_box_player_season.json -> json file with mock data of player stats from NBA seasons 2010 - 2021 <br>
+* player.json -> json file with mock data of basic player info (name, date of birth) <br>
 
 # Methodology
 ## Tools

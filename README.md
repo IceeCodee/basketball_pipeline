@@ -16,7 +16,7 @@ pandas used for data cleaning <br>  postgreSQL used for data storage
   * Team name left blank
   * Internal box plus minue left blank due to
   * True shooting filled in with formula
-      * $ 2 * (2PTA + 3PTA + 0.44 * FTA) $
+      * $2 * (2PTA + 3PTA + 0.44 * FTA)$
 
 
 # Queries

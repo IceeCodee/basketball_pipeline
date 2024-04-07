@@ -8,7 +8,7 @@ The purpose of this repository is to use the json files provided and load the da
 
 # Methodology
 ## Tools
-__pandas__  used for data cleaning <br>  __postgreSQL__ used for data storage
+__pandas__  -> used for data cleaning <br>  __postgreSQL__ -> used for data storage
 ## Data Cleaning
 * For each file capitalization for player first and last name were standardized
 * Duplicate entries were removed

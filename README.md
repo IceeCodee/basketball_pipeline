@@ -8,7 +8,7 @@ The purpose of this repository is to use the json files provided and load the da
 
 # Methodology
 ## Tools
-pandas used for data cleaning <br>  postgreSQL used for data storage
+__pandas__  used for data cleaning <br>  __postgreSQL__ used for data storage
 ## Data Cleaning
 * For each file capitalization for player first and last name were standardized
 * Duplicate entries were removed
@@ -17,11 +17,11 @@ pandas used for data cleaning <br>  postgreSQL used for data storage
   * Internal box plus minue left blank (not able to source formula from internet)
   * Calculated possessions can be filled in with the same number as estimated posessions
   * The reamining missing entries were filled with the following formulas source from various sources on the internet. (It should be noted that some formulas are based on other stats and if the player does not have enough information to compute the formula then it was left as null)
-  * True shooting: $2 * (2PTA + 3PTA + 0.44 * FTA)$
-  * Three point attempt rate: $3PTA / 2PTA+ 3PTA$
-  * Free throw rate: $FTA / 2PTA+ 3PTA$
-  * Turnover percentage: $TO / 2PTA + 3PTA + (0.44 * 2PTA+ 3PTA+ TO)$
-  * Plays used: $USG% / 100 * 2PTA+ 3PTA + 0.5 * FTA + TO$
+    * True shooting: $2 * (2PTA + 3PTA + 0.44 * FTA)$
+    * Three point attempt rate: $3PTA / 2PTA+ 3PTA$
+    * Free throw rate: $FTA / 2PTA+ 3PTA$
+    * Turnover percentage: $TO / 2PTA + 3PTA + (0.44 * 2PTA+ 3PTA+ TO)$
+    * Plays used: $USG% / 100 * 2PTA+ 3PTA + 0.5 * FTA + TO$
  Abbreveations can be found here:[https://www.nba.com/stats/help/glossary]
 
 # Queries

@@ -21,7 +21,7 @@ __pandas__  -> used for data cleaning <br>  __postgreSQL__ -> used for data stor
     * Three point attempt rate: $3PTA / 2PTA+ 3PTA$
     * Free throw rate: $FTA / 2PTA+ 3PTA$
     * Turnover percentage: $TO / 2PTA + 3PTA + (0.44 * 2PTA+ 3PTA+ TO)$
-    * Plays used: $USG\% / 100 * 2PTA + 3PTA + 0.5 * FTA + TO$ <br>
+    * Plays used: $USG\\% / 100 * 2PTA + 3PTA + 0.5 * FTA + TO$ <br>
  Abbreveations can be found here: [https://www.nba.com/stats/help/glossary]
 
 # Queries

@@ -23,10 +23,3 @@ __pandas__  -> used for data cleaning <br>  __postgreSQL__ -> used for data stor
     * Turnover percentage: $TO / 2PTA + 3PTA + (0.44 * 2PTA+ 3PTA+ TO)$
     * Plays used: $USG\\% / 100 * 2PTA + 3PTA + 0.5 * FTA + TO$ <br>
  Abbreveations can be found here: [https://www.nba.com/stats/help/glossary]
-
-# Queries
-.....coming soon........
-# Reporting
-.....coming soon........
-# Conclusion
-.....coming soon........
